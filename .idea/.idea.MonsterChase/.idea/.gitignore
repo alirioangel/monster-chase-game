@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.MonsterChase.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Alirio_Angel\Documents\developer\unity_projects\MonsterChase\.idea\.idea.MonsterChase\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
